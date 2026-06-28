@@ -21,7 +21,7 @@ int main() {
 
     
 
-    printf("\n--- Employee Record ---\n");
+    printf("\n--- Library Record ---\n");
     printf("Book ID  : %d\n",   b.Id );
     printf("Title    : %s\n",   b.title);
     printf("Author   : %s\n", b.author);
